@@ -3,6 +3,7 @@ package equation.generator;
 public class Component 
 {
 	protected double value;
+	protected double prueba;
 	protected CompTypes compType;
 	protected Node t1;
 	protected Node t2;
