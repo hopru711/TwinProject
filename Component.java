@@ -2,7 +2,6 @@ package equation.generator;
 
 public class Component 
 {
-	public int variablePrueba;
 	protected double value;
 	protected CompTypes compType;
 	protected Node t1;
